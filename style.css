@@ -7,9 +7,10 @@
     color: #573A37;
 }
 body {
-    background-image: url(assets/bg-image.jpg);
+    background-image: url(assets/bg-image.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #573824;
 }
 #section {
     box-sizing: border-box;
